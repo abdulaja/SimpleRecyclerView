@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecyclerViewSubmission</string>
+    <string name="photodesc">photodesc</string>
+    <string name="name">Name</string>
+    <string name="imagephoto">ImagePhoto</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_price">food price</string>
+</resources>
